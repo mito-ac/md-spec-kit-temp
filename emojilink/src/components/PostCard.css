@@ -1,0 +1,61 @@
+.post-card {
+  background-color: white;
+  border: 1px solid #e1e8ed;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.post-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+}
+
+.post-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.user-icon {
+  font-size: 2rem;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-name {
+  font-weight: bold;
+  color: #14171a;
+  font-size: 0.95rem;
+}
+
+.post-time {
+  color: #657786;
+  font-size: 0.85rem;
+}
+
+.post-emojis {
+  display: flex;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  flex-wrap: wrap;
+}
+
+.emoji {
+  font-size: 3rem;
+}
+
+.reactions-area {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e1e8ed;
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}

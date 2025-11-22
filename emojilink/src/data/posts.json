@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "emojis": ["🎉", "🚀"],
+    "userId": "user1",
+    "userName": "たろう",
+    "userIcon": "👨",
+    "reactions": [
+      { "emoji": "👍", "count": 2 },
+      { "emoji": "❤️", "count": 1 },
+      { "emoji": "😂", "count": 0 },
+      { "emoji": "😮", "count": 0 },
+      { "emoji": "🎉", "count": 3 }
+    ],
+    "createdAt": "2025-11-22T10:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "emojis": ["☕", "📚", "💻"],
+    "userId": "user2",
+    "userName": "はなこ",
+    "userIcon": "👩",
+    "reactions": [
+      { "emoji": "👍", "count": 5 },
+      { "emoji": "❤️", "count": 2 },
+      { "emoji": "😂", "count": 1 },
+      { "emoji": "😮", "count": 0 },
+      { "emoji": "🎉", "count": 0 }
+    ],
+    "createdAt": "2025-11-22T09:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "emojis": ["🌸"],
+    "userId": "user3",
+    "userName": "さくら",
+    "userIcon": "🌺",
+    "reactions": [
+      { "emoji": "👍", "count": 1 },
+      { "emoji": "❤️", "count": 8 },
+      { "emoji": "😂", "count": 0 },
+      { "emoji": "😮", "count": 1 },
+      { "emoji": "🎉", "count": 2 }
+    ],
+    "createdAt": "2025-11-22T08:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "emojis": ["🍕", "🍔"],
+    "userId": "user4",
+    "userName": "けんた",
+    "userIcon": "👦",
+    "reactions": [
+      { "emoji": "👍", "count": 3 },
+      { "emoji": "❤️", "count": 0 },
+      { "emoji": "😂", "count": 2 },
+      { "emoji": "😮", "count": 1 },
+      { "emoji": "🎉", "count": 0 }
+    ],
+    "createdAt": "2025-11-22T07:45:00.000Z"
+  },
+  {
+    "id": 5,
+    "emojis": ["🎮", "🕹️", "👾"],
+    "userId": "user5",
+    "userName": "ゆうき",
+    "userIcon": "🎯",
+    "reactions": [
+      { "emoji": "👍", "count": 4 },
+      { "emoji": "❤️", "count": 1 },
+      { "emoji": "😂", "count": 0 },
+      { "emoji": "😮", "count": 2 },
+      { "emoji": "🎉", "count": 5 }
+    ],
+    "createdAt": "2025-11-22T06:20:00.000Z"
+  }
+]
